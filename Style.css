@@ -1,0 +1,35 @@
+td {
+    font-family: 'Indie Flower', monospace;
+    border: 2px solid white;
+    width: 256px;
+    height: 256px;
+    text-align: center;
+    font-size: 128px;
+    color: white;
+    user-select: none;
+}
+
+table {
+    border-collapse: collapse;
+    user-select: none;
+}
+
+body {
+    background-color: black;
+    margin: 5;
+    color: white;
+}
+
+tbody {
+    user-select: none;
+}
+
+.X {
+    background-color: chocolate;
+    color: wheat;
+}
+
+.O {
+    background-color: paleturquoise;
+    color: black;
+}
